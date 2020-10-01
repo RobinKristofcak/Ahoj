@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     // Ahoj Ondra
     // asdfasd fdsaf
+    // zmena 1
 }
 
 // Spuštění programu: Ctrl+F5 nebo nabídka Ladit > Spustit bez ladění
